@@ -2,10 +2,10 @@
 import requests, shutil, subprocess, datetime
 
 # enter nasa api key
-api_key = '2yBfvfL62Je5l47lynCx7Vcd7hdzwlKpvxzzAthg'
+api_key = 'enter the api key here'
 
 # enter where you want the photos to be stored
-filename = '/Users/evandfitz/Desktop/Personal/Projects/nasa-background/'
+filename = 'enter the directory here'
 
 # http request
 url = 'https://api.nasa.gov/planetary/apod?api_key=' + api_key
