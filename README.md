@@ -11,6 +11,8 @@ Requirements: Python 3.X+
 ```
 git clone https://github.com/evanfitzgerald/nasa-background.git
 
+cd nasa-background
+
 pip3 install -r requirements.txt
 ```
 ### Getting an API key & File Storage
